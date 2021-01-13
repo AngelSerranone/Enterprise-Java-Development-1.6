@@ -1,0 +1,10 @@
+Manuel tiene 56 años y tiene un salario de 27000 euros.
+Mercedes tiene 28 años y tiene un salario de 22000 euros.
+Marta tiene 44 años y tiene un salario de 22000 euros.
+Javier tiene 42 años y tiene un salario de 35000 euros.
+Pedro tiene 42 años y tiene un salario de 31000 euros.
+Sara tiene 23 años y tiene un salario de 20000 euros.
+Fran tiene 19 años y tiene un salario de 12000 euros.
+Javier tiene 56 años y tiene un salario de 14000 euros.
+Iván tiene 44 años y tiene un salario de 20000 euros.
+Iván tiene 44 años y tiene un salario de 18000 euros.
