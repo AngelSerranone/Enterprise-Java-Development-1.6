@@ -8,3 +8,13 @@ Fran tiene 19 años y tiene un salario de 12000 euros.
 Javier tiene 56 años y tiene un salario de 14000 euros.
 Iván tiene 44 años y tiene un salario de 20000 euros.
 Iván tiene 44 años y tiene un salario de 18000 euros.
+Iván tiene 38 años y tiene un salario de 18000 euros.
+Ana tiene 52 años y tiene un salario de 40000 euros.
+Marta tiene 38 años y tiene un salario de 31000 euros.
+Marta tiene 34 años y tiene un salario de 30000 euros.
+Marta tiene 19 años y tiene un salario de 10000 euros.
+Marta tiene 19 años y tiene un salario de 20000 euros.
+Mercedes tiene 34 años y tiene un salario de 20000 euros.
+Ana tiene 44 años y tiene un salario de 20000 euros.
+Javier tiene 38 años y tiene un salario de 12000 euros.
+Mercedes tiene 34 años y tiene un salario de 14000 euros.
